@@ -1,0 +1,3 @@
+/home/lapatan/Desktop/POOP/Mateja_Lapatanovic_67_2022/Restoran/build/CMakeFiles/exe.dir
+/home/lapatan/Desktop/POOP/Mateja_Lapatanovic_67_2022/Restoran/build/CMakeFiles/edit_cache.dir
+/home/lapatan/Desktop/POOP/Mateja_Lapatanovic_67_2022/Restoran/build/CMakeFiles/rebuild_cache.dir
